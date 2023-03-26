@@ -1,0 +1,36 @@
+{
+  "name": "restaurant-management-system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "axios": "^1.2.2",
+    "bcryptjs": "^2.4.3",
+    "daisyui": "^2.46.1",
+    "dates-in-month": "^1.1.2",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "formidable": "^2.1.1",
+    "iron-session": "^6.3.1",
+    "luxon": "^3.2.1",
+    "mongoose": "^6.8.3",
+    "next": "13.1.1",
+    "next-auth": "^4.18.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-paystack": "^4.0.2",
+    "react-use-cart": "^1.13.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
